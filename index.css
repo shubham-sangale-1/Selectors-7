@@ -1,0 +1,13 @@
+.cards{
+    height: 350px;
+}
+.card{
+    height: 50%;
+    width: 20%;
+    background-color:black;
+}
+.card:hover{
+    width: 40%;
+    height: 100%;
+    background-color:lime;
+}
